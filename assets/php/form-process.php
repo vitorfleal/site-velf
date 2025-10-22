@@ -32,7 +32,7 @@ if (empty($_POST["message"])) {
 }
 
 
-$EmailTo = "comercial@velfconsulting.com";
+$EmailTo = "comercial@velftecnology.com";
 $Subject = "Site Institucional";
 
 // prepare email body text
